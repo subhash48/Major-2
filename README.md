@@ -27,4 +27,4 @@ For external commands, it uses fork and execvp to create new processes. Input/ou
 The program ensures dynamic memory (e.g., for paths and history) is cleaned up using dedicated cleanup functions before exiting.
 Errors like invalid commands or file issues are logged with helpful messages using perror and fprintf.
 
-## GitHub Link: 
+## GitHub Link: https://github.com/subhash48/Major-2.git
